@@ -1,6 +1,6 @@
 package spring.core.member;
 
-public interface MeberRepository {
+public interface MemberRepository {
     void save(Member member);
     Member findById(Long memberId);
 }
