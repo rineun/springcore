@@ -71,3 +71,6 @@
 - request 스코프 예제 만들기
 - 스코프와 Provider
 - 스코프와 프록시
+
+
+- http://localhost:9090/log-demo
